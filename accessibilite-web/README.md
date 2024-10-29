@@ -18,9 +18,9 @@ Tout en consultant les liens recommandés
 - Lister vos éventuelles questions
 
 ## Travail 2 - Travail en groupe
-Réaliser un site web de démonstration en 2 versions:
+Par groupes de 2 à 3 étudiants, réaliser un site web de démonstration en 2 versions:
 - une version non soucieuse d'accessiblité, c'est-à-dire échouant aux critères de succès
-- une version implémentant des principes d'accéssibilité
+- une version implémentant des principes d'accessibilité
 
 Sujet du site web: libre.
 
