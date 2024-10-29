@@ -10,6 +10,7 @@
 - [Your Complete Guide to an Inclusive Web | playlist de 117 courtes vidéos youtube (EN) - durée totale approximative: 3h](https://youtube.com/playlist?list=PLBF3XTmgreLHH77gQOEa6xCCT2M0IWxo6&si=gOP8U5OIJQwz8dzu)
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/Translations/WCAG21-fr/)
 - [ACME-fashion-house | exemples d'implémentation des principes d'accessibilité web](https://github.com/canaxess/ACME-fashion-house/tree/master)
+- [7 Quick Ways to Check if a Website Passes a Color Contrast Check](https://allyant.com/7-quick-ways-to-check-if-a-website-passes-a-color-contrast-check/)
 
 ## Travail indivuel
 Tout en consultant les liens recommandés
