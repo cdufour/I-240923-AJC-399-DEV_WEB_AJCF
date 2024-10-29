@@ -12,7 +12,26 @@
 - [ACME-fashion-house | exemples d'implémentation des principes d'accessibilité web](https://github.com/canaxess/ACME-fashion-house/tree/master)
 - [7 Quick Ways to Check if a Website Passes a Color Contrast Check](https://allyant.com/7-quick-ways-to-check-if-a-website-passes-a-color-contrast-check/)
 
-## Travail indivuel
+## Travail 1 - Travail indivuel
 Tout en consultant les liens recommandés
 - Noter, de façon synthétique, les idées/principes qui vous semblent les plus important(e)s
 - Lister vos éventuelles questions
+
+## Travail 2 - Travail en groupe
+Réaliser un site web de démonstration en 2 versions:
+- une version non soucieuse d'accessiblité, c'est-à-dire échouant aux critères de succès
+- une version implémentant des principes d'accéssibilité
+
+Sujet du site web: libre.
+
+
+Ce site devra contenir:
+- 4 pages au moins dont une page d'accueil
+- une zone d'entête avec logo et menu de navigation
+- une zone centrale
+- une zone de pied de page avec copyright et menu de navigation
+- des textes de différents types: textes hiérachisés, citations, listes, liens, etc.
+- des médias: images, vidéos/audios
+
+Parmis les <a href="checklist.pdf">50 critères de succès</a>, vous devrez en implémenter <strong>au moins 20</strong>. Sur ces 20 critères de succès, la moitié au moins devra être de niveau <strong>AA</strong>.
+L'identifiant du critère de succès validé (exemple: 1.4.3) devra être indiqué sous forme de commentaire dans le code source des pages HTML.

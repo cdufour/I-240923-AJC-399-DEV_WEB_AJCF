@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de démonstration des principes d'accessibilité web</title>
+    <style>
+        #info {
+            width: 200px;
+            height: 200px;
+            height: 200px;
+            background-color: #c7cc66;
+            padding: 10px;
+            color: #333
+        }
+
+        .citation, blockquote {
+            color: green;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>WCAG - démo</h1>
+
+    <!--- 1.1.1 -->
+    <img
+        width="200" 
+        src="loup.jpg" 
+        alt="Loup enragé avec gueule grande ouverte" />
+
+    <!--- 1.4.3 -->
+    <div id="info">
+        Je vise le triple AAA
+    </div>
+
+    <div class="citation">
+        "Ad astra per aspera" (Cicéron)
+    </div>
+
+    <div class="citation">
+        "Tra il dire e il fare c'è di mezzo il mare" (Proverbe italien)
+    </div>
+
+    <blockquote>
+        "Tra il dire e il fare c'è di mezzo il mare" <cite>Proverbe italien</cite>)
+    </blockquote>
+
+
+
+</body>
+</html>
