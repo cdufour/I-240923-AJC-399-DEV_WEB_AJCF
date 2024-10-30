@@ -17,8 +17,10 @@ Tout en consultant les liens recommandés
 - Noter, de façon synthétique, les idées/principes qui vous semblent les plus important(e)s
 - Lister vos éventuelles questions
 
+<hr>
+
 ## Travail 2 - Travail en groupe
-Par groupes de 2 à 3 étudiants, réaliser un site web de démonstration en 2 versions:
+Réaliser un site web de démonstration en 2 versions (il pourra s'agir du même site ou de deux sites différents):
 - une version non soucieuse d'accessiblité, c'est-à-dire échouant aux critères de succès
 - une version implémentant des principes d'accessibilité
 
@@ -33,5 +35,5 @@ Ce site devra contenir:
 - des textes de différents types: textes hiérachisés, citations, listes, liens, etc.
 - des médias: images, vidéos/audios
 
-Parmis les <a href="checklist.pdf">50 critères de succès</a>, vous devrez en implémenter <strong>au moins 20</strong>. Sur ces 20 critères de succès, la moitié au moins devra être de niveau <strong>AA</strong>.
+Parmi les <a href="checklist.pdf">50 critères de succès</a>, vous devrez en implémenter <strong>au moins 15</strong>. Sur ces 15 critères de succès, au moins 5 devront être de niveau <strong>AA</strong>.
 L'identifiant du critère de succès validé (exemple: 1.4.3) devra être indiqué sous forme de commentaire dans le code source des pages HTML.
