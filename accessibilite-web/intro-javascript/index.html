@@ -1,0 +1,41 @@
+<html lang="fr">
+    <head>
+        <title>Introduction à JavaScript</title>
+    </head>
+
+    <body>
+        <h1>Introduction à JavaScript</h1>
+        <div id="demo">
+
+        </div>
+        <button id="btn">Click</button>
+        <span id="counter"></span>
+
+
+        <script>
+            // code JS ici
+            // ciblage de balises
+            var demo = document.getElementById("demo");
+            var btn = document.getElementById("btn");
+            var counter = document.getElementById("counter");
+            var count = 0;
+
+            setTimeout(() => {
+                demo.innerText = "Salam !"
+            }, 5000)
+
+            btn.addEventListener('click', () => {
+
+                if (count == 11) {
+                    count = 0
+                }
+                count = count + 1;
+                counter.innerText = count;
+            })
+
+            //console.log('Salam !')
+        </script>
+
+
+    </body>
+</html>
