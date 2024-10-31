@@ -17,6 +17,7 @@
 - [Accessibility Checker](https://www.accessibilitychecker.org/)
 - [Five Web Accessibility Extensions for Visual Studio Code](https://www.codespud.com/2022/five_accessibility_vscode_extensions/)
 - [NVDA Screen Reader](https://www.nvaccess.org/)
+- [Lighthouse | Chrome extension](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 
 
 ## Travaux
