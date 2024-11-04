@@ -12,6 +12,9 @@
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/Translations/WCAG21-fr/)
 - [ACME-fashion-house | exemples d'implémentation des principes d'accessibilité web](https://github.com/canaxess/ACME-fashion-house/tree/master)
 - [7 Quick Ways to Check if a Website Passes a Color Contrast Check](https://allyant.com/7-quick-ways-to-check-if-a-website-passes-a-color-contrast-check/)
+- [Meilleures pratiques d'accessibilité CSS et JavaScript](https://developer.mozilla.org/fr/docs/Learn/Accessibility/CSS_and_JavaScript)
+- [Les bases de WAI-ARIA](https://developer.mozilla.org/fr/docs/Learn/Accessibility/WAI-ARIA_basics)
+- [Furbaby accessible website](https://github.com/Stefany93/furbaby-accessible-website)
 
 ### Outils pour tester l'accessibilité web
 - [Accessibility Checker](https://www.accessibilitychecker.org/)
