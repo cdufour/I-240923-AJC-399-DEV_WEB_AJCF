@@ -44,3 +44,14 @@ Ce site devra contenir:
 
 Parmi les <a href="checklist.pdf">50 critères de succès</a>, vous devrez en implémenter <strong>au moins 15</strong>. Sur ces 15 critères de succès, au moins 5 devront être de niveau <strong>AA</strong>.
 L'identifiant du critère de succès validé (exemple: 1.4.3) devra être indiqué sous forme de commentaire dans le code source des pages HTML.
+
+### Travail 3 - Travail indivuel
+- [Accessibilité: Obligations légales et sanctions](https://design.numerique.gouv.fr/accessibilite-numerique/cadre-legal/)
+- [Accessibilité numérique : les dernières réglementations | youtube - 1h (FR)](https://youtu.be/htRjS0CiHgU?si=Hggo5Rg3pShgR9pO)
+- [Webinaire "Sites Internet accessibles" : l'exemple de l'Orchestre National de Lille. | youtube - 1h26 (FR)](https://youtu.be/kcQw5QzQ-yU?si=sCgvPVFD_bjgF7X7)
+
+
+Après avoir consulté les liens ci-dessus, répondre aux questions suivantes:
+- Quelle réglementation existe en matière d'accessiblité web, à qui s'applique-t-elle et quelles sont les sanctions encourues à cas de non respect ?
+- Donnez des raisons pouvant expliquer le fait qu'énormément de sites internet ne soient pas conformes à la réglementation
+- Dire en résumé quelle méthologie a permis de rentre accessible le site de l'Orchestre national de Lille
