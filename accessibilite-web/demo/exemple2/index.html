@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemple 2</title>
+</head>
+<body>
+
+    <script>
+
+        function generateUI() {
+            var h1 = document.createElement('h1');
+            h1.innerText = 'Exemple 2';
+            document.body.appendChild(h1);
+
+            for (i=1; i<4; i++) {
+                var p = document.createElement('p');
+                p.innerText = 'Paragraphe ' + i;
+                document.body.appendChild(p);
+            }
+        }
+
+        setTimeout(generateUI, 1000 * 10);
+
+    </script>
+</body>
+</html>

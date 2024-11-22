@@ -1,0 +1,30 @@
+h1 {
+    font-size: 5rem;
+  }
+
+h2 {
+    font-size: 8rem;
+}
+  
+p,
+li {
+    line-height: 1.5;
+    font-size: 1.4rem;
+}
+
+ul {
+    padding: 0
+}
+
+.italic {
+    font-style: italic;
+    color: orange
+}
+
+strong {
+    text-transform: uppercase;
+}
+
+em {
+    color: orange
+}
