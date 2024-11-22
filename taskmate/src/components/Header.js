@@ -1,6 +1,12 @@
+import logo from '../assets/logo.svg';
+
 function Header() {
     return (
-       <p>Header</p> 
+       <header>
+        <span className="logo">
+            <img src={logo} alt="Logo Taskname" />
+        </span>
+       </header>
     )
 }
 
