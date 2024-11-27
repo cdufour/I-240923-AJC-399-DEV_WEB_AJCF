@@ -12,7 +12,7 @@
 
 ### Programme lundi 25/11 (jour 2)
 1. Visionner la [vidéo suivante (4h)](https://youtu.be/eKYkDqHohrw?si=9wBdsMCpWsAhDypQ)
-2. Compléter le projet __taskmate__ afin d'atteindre un résultat proche de la [version en ligne](https://taskmate-ul.netlify.app/)
+2. Compléter le projet __taskmate__ afin d'atteindre un résultat proche de la [version en ligne](https://taskmate-ul.netlify.app/). 
 Utliser le [localstorage](https://youtu.be/fYTTUBa-lPc?si=6QEdlOvGO-O3iRZ2) pour enregistrer et retrouver les tâches (todos)
 
 ### Programme mardi 26/11 (jour 3)
