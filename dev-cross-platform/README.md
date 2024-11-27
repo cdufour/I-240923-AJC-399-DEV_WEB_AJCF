@@ -20,6 +20,6 @@ Utliser le [localstorage](https://youtu.be/fYTTUBa-lPc?si=6QEdlOvGO-O3iRZ2) pour
 2. Démarrage [Projet de découverte React Native](https://youtu.be/0EOucUY_F0c?si=9B3kySAZO10HokWH), travail de groupe
 
 ### Programme mercredi 27/11 (jour 4)
-Reproduire entrièrement l'application React Native "Pokédex" réalisée dans [cette vidéo](https://youtu.be/0EOucUY_F0c?si=9B3kySAZO10HokWH). <br>
+Reproduire l'application React Native "Pokédex" réalisée dans [cette vidéo](https://youtu.be/0EOucUY_F0c?si=9B3kySAZO10HokWH) au moins jusqu'à la partie __Ecran détail du Pokemon__ (1h39). <br>
 Il est conseillé de travailler en équipe et de vous entraider. Des salles seront créées. <br>
 En cas de besoin, je passerai dans les salles pour les dépannages/éclaircissements
