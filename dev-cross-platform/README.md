@@ -18,3 +18,8 @@ Utliser le [localstorage](https://youtu.be/fYTTUBa-lPc?si=6QEdlOvGO-O3iRZ2) pour
 ### Programme mardi 26/11 (jour 3)
 1. Correction complète taskmate
 2. Démarrage [Projet de découverte React Native](https://youtu.be/0EOucUY_F0c?si=9B3kySAZO10HokWH), travail de groupe
+
+### Programme mercredi 27/11 (jour 4)
+Reproduire entrièrement l'application React Native "Pokédex" réalisée dans [cette vidéo](https://youtu.be/0EOucUY_F0c?si=9B3kySAZO10HokWH). 
+Il est conseillé de travailler en équipe et de vous entraider. Des salles seront créées. 
+En cas de besoin, je passerai dans les salles pour les dépannages/éclaircissements
