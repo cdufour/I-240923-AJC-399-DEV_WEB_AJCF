@@ -12,7 +12,7 @@
 
 ### Programme lundi 25/11 (jour 2)
 1. Visionner la [vidéo suivante (4h)](https://youtu.be/eKYkDqHohrw?si=9wBdsMCpWsAhDypQ)
-2. Compléter le projet __taskmate__ afin d'atteindre un résultat proche de la [version en ligne](https://taskmate-ul.netlify.app/). 
+2. Compléter le projet __taskmate__ afin d'atteindre un résultat proche de la [version en ligne](https://taskmate-ul.netlify.app/). <br>
 Utliser le [localstorage](https://youtu.be/fYTTUBa-lPc?si=6QEdlOvGO-O3iRZ2) pour enregistrer et retrouver les tâches (todos)
 
 ### Programme mardi 26/11 (jour 3)
@@ -20,6 +20,6 @@ Utliser le [localstorage](https://youtu.be/fYTTUBa-lPc?si=6QEdlOvGO-O3iRZ2) pour
 2. Démarrage [Projet de découverte React Native](https://youtu.be/0EOucUY_F0c?si=9B3kySAZO10HokWH), travail de groupe
 
 ### Programme mercredi 27/11 (jour 4)
-Reproduire entrièrement l'application React Native "Pokédex" réalisée dans [cette vidéo](https://youtu.be/0EOucUY_F0c?si=9B3kySAZO10HokWH). 
-Il est conseillé de travailler en équipe et de vous entraider. Des salles seront créées. 
+Reproduire entrièrement l'application React Native "Pokédex" réalisée dans [cette vidéo](https://youtu.be/0EOucUY_F0c?si=9B3kySAZO10HokWH). <br>
+Il est conseillé de travailler en équipe et de vous entraider. Des salles seront créées. <br>
 En cas de besoin, je passerai dans les salles pour les dépannages/éclaircissements
