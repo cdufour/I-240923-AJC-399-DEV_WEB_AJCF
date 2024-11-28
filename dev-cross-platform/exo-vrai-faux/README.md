@@ -8,7 +8,7 @@ Cette application devra afficher une affirmation sous forme de texte. <br>
 Exemple: La Juventus est le club le plus titré d'Italie.<br>
 L'interface proposera deux boutons: Vrai et Faux<br>
 En fonction du bouton cliqué un message de succès ou d'erreur apparaîtra.<br>
-<img src="capture.png" wdith="600">
+<img src="capture.png" style="border:1px #333 solid; width:600px">
 
 <br><br>
 Me fournir de préférence, dans un simple fichier texte, l'url de votre dépôt de code ou alors un zip contenant votre code source.
