@@ -11,6 +11,4 @@ En fonction du bouton cliqué un message de succès ou d'erreur apparaîtra.<br>
 <img src="capture.png" wdith="600">
 
 <br><br>
-Me fournir soit:
-- l'url de votre dépôt de code
-- un zip contenant votre code source
+Me fournir de préférence, dans un simple fichier texte, l'url de votre dépôt de code ou alors un zip contenant votre code source.
